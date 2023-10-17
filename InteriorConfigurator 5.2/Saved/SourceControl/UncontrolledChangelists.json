@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/oppat/Documents/Unreal Projects/InteriorConfigurator/InteriorConfigurator 5.2/Content/Configurator/Blueprints/Widgets/BP_Menu.uasset",
+				"C:/Users/oppat/Documents/Unreal Projects/InteriorConfigurator/InteriorConfigurator 5.2/Content/FirstPerson/Blueprints/BP_Overview.uasset",
+				"C:/Users/oppat/Documents/Unreal Projects/InteriorConfigurator/InteriorConfigurator 5.2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
